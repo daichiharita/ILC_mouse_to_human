@@ -2,10 +2,12 @@
 すべてで5つのjypterファイルがある。
 
 ## S-LDSCimplemention.ipynb
-Fig.2.bedファイルからldscoreを作成し、作成したldscoreを使用してS-LDSCを実施すし、barplotで図示した。
-
+Fig.2.bedファイルからldscoreを作成、S-LDSCを実施、barplotでの図示
 ## scRNA-seq.ipynb
-Fig.3.
-
+Fig.3.scRNA-seqによる解析
+## mousetohuman.ipynb
+mouseのIDをhumanに変換
+## BEDfile.ipynb
+遺伝子リストからBed fileの作成
 ## S-LDSC.ipynb
-Fig.4.
+Fig.4.本解析で作成したILCのmouseからhumanに変換したbedファイルからldscoreを作成、S-LDSCを実施、barplotでの図示
