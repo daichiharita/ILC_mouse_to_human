@@ -1,5 +1,5 @@
 # ILC mouse to human
-すべてで5つのjypterファイルがある。
+すべてで5つのJupyter Notebookファイルがある。
 
 ## S-LDSCimplemention.ipynb
 Fig.2.bedファイルからldscoreを作成、S-LDSCを実施、barplotでの図示
